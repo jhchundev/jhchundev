@@ -38,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/jhchundev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhchundev&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhchundev&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-urix.vercel.app/api?username=jhchundev&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-urix.vercel.app/api/top-langs/?username=jhchundev&theme=buefy&layout=compact" />
 </a>
 
 <br/>
