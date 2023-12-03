@@ -14,6 +14,11 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+- 🔧 &nbsp;
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -25,15 +30,17 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
+- 🔧 &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+  ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=google-cloud)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
+
 
 <br/>
 
