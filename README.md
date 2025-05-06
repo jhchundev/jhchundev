@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; Studying Electronic Engineering at Kyoto University.
-- 💼 &nbsp; Working as Web Application Developer at Nintendo.
-- 🌱 &nbsp; Learning more about ML
-- ✍️ &nbsp; Pursuing Full Stack Developer and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying semiconductor engineering at the University of Tokyo.
+- 💼 &nbsp; Gaining hands-on experience as a full-stack engineer through multiple internships.
+- 🌱 &nbsp; Currently deepening my knowledge in machine learning & low level architecture.
+- ✍️ &nbsp; Passionate about full-stack development and blog writing as side pursuits.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
